@@ -1,2 +1,2 @@
-# SIE.INV
-WebAPI INV (Invoices Management)
+# EBOS.WHS
+WebAPI WHS (Warehouse Management)
